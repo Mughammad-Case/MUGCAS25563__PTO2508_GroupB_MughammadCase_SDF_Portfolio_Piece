@@ -1,56 +1,22 @@
 # 💼 SDFPP Resume Project
 
-Welcome to your first major **portfolio project** in the Software Development Program is a resume project (SDFPP). In this challenge, using a [Figma design file](https://www.figma.com/design/fM2tutgIH0k1SrNir4MVe3/SDF-Resume-Project-STUDENT-REFERENCE-FILE?node-id=0-1&t=yGSXI1yv4AgjKBvA-1) as reference, you’ll create your very own online resume — a personal website that shows off your skills, experience, and code style using **HTML and CSS**.
-
-This is not just practice — this is something you can proudly include in your portfolio and share with future employers!
+overview of my prject
 
 ---
 
-## 📌 Project Overview
-
-**Project Name:** Resume Project  
-**Difficulty:** Beginner–Intermediate  
-**Goal:** Replicate a Figma design of a resume site as accurately as possible using HTML and CSS  
-**Tools Required:** HTML5, CSS3, Git, GitHub  
-**Deployment:** Not required — site must run locally in browser  
-**Submission Includes:**
-- A link to your GitHub repo
-- A screen recording of your presentation (5–10 minutes)
-- A complete README (you’re reading it!)
-
- 🎨Link to Figma Reference File: https://www.figma.com/design/fM2tutgIH0k1SrNir4MVe3/SDF-Resume-Project-STUDENT-REFERENCE-FILE?node-id=0-1&t=yGSXI1yv4AgjKBvA-1
-
----
-
-## 🧠 What You'll Build
-
-You will build a fully responsive, Figma-matching resume site that includes the following sections:
+## 📌 Contents:
 
 - Profile & Summary
 - Proficiency Bars
 - Skills Tags
 - Projects Grid
+- Tools section
 - Education & Work History
-- Tools Section
-- Contact Footer
+- Tools Sectionontact Footer
 
 ---
 
-## 🧪 How You’ll Be Marked
-
-Your project will be assessed using **two components**:
-
-### ✅ 1. Code & Layout Marking 
-Each section of your resume site is scored based on:
-- Use of semantic HTML and correct structure
-- Accurate styling, spacing, typography, and colour matching the Figma
-- Pixel accuracy for layout and alignment
-- Responsive layout on mobile screens
-- Clean and well-structured code
-- Functional and visually polished components
-- Accessibility (e.g., alt text for images and icons)
-
-> A full breakdown of the scoring rubric is available on your Dashboard. Each feature is mapped to a clear user story and assigned a difficulty rating. Some features offer bonus points for pixel-perfection ✨
+## 🧪 Presentation
 
 ### 🎙️ 2. Recorded Presentation 
 You must record a **5–10 minute** screen presentation of your project using Loom, OBS, or any screen recorder.
